@@ -1,2 +1,2 @@
 # didactic-journey
-sign in for kkb.com
+learn.kkb.netlify.app/
